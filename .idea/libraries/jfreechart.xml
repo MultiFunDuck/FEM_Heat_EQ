@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="jfreechart">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/../JetBrains IntelliJ IDEA Ultimate 2020.1 x64/external_libs/jfreechart.jar!/" />
+      <root url="jar://$PROJECT_DIR$/external_libs/jfreechart.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
